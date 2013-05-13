@@ -7,3 +7,12 @@ target/
 .springBeans
 upload/
 rebel.xml
+
+# android
+*.apl
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+local.properties
